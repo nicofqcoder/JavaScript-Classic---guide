@@ -1,7 +1,7 @@
 function Player(name){
     this.name = name;
-    this.hp = 100; // Health points
-    this.sp = 100; // Special points
+    this.hp   = 100; // Health points
+    this.sp   = 100; // Special points
 
     this.cure = function(targetPlayer){
 
